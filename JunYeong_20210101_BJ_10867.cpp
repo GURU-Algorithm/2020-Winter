@@ -19,6 +19,6 @@ int main() {
 		if(N[i] != 0)
 			printf("%d ", i - 1000);
 	}
-	
+
 	return 0;
 }

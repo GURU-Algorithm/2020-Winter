@@ -36,7 +36,6 @@ int main() {
 		}
 	}
 
-	// 결과 출력
 	printf("%lld", res);
 	delete[] N;
 	return 0;

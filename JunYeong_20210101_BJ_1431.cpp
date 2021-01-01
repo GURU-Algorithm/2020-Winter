@@ -7,7 +7,6 @@ string S[1001];
 int main() {
 	int n, i, j, l;
 	string tmp;
-
 	cin >> n;
 	for (i = 1; i <= n; i++) cin >> S[i];
 

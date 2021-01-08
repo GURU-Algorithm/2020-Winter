@@ -26,5 +26,5 @@ int main(int argc, char** argv)
 		res = size_A - res * size_B + res;
         	printf("#%d %d\n", test_case, res);
 	}
-	return 0;//정상종료시 반드시 0을 리턴해야합니다.
+	return 0;
 }

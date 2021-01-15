@@ -1,0 +1,16 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+using namespace std;
+
+int main()
+{
+	int size;
+	scanf_s("%d", &size);
+	vector<int> factors(size);
+	for (int i = 0; i < size; i++)
+		scanf_s("%d", &factors[i]);
+	sort(factors.begin(), factors.end());
+	int n = factors[0] * factors[size - 1];
+	printf("%d", n);
+}

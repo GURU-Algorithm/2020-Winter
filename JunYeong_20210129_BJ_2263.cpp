@@ -26,6 +26,7 @@ void preorder(int in_st, int in_en, int po_st, int po_en) {
 	preorder(index + 1, in_en, po_st + (index - in_st), po_en - 1);
 }
 
+
 int main() {
 	int i;
 	scanf_s("%d", &n);

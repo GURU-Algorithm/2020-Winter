@@ -24,3 +24,10 @@
 - https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm&categoryId=AWVl47b6DGMDFAXm&categoryType=CODE (예진)
 - https://www.acmicpc.net/problem/1655 (보라)
 - https://www.acmicpc.net/problem/2263 (준영)
+
+---
+2021.02.04 (목)
+- https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc (민정)
+- https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj (예진)
+- https://www.acmicpc.net/problem/1080 (보라)
+- https://www.acmicpc.net/problem/2206 (준영)

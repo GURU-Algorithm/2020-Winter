@@ -41,7 +41,7 @@
 
 ---
 2021.02.18 (목)
-- 
-- 
-- 
-- 
+- https://www.acmicpc.net/problem/10250 (민정)
+- https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh (예진)
+- https://www.acmicpc.net/problem/6603 (보라)
+- https://www.acmicpc.net/problem/17839 (준영)

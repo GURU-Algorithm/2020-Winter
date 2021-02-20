@@ -31,3 +31,17 @@
 - https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj (예진)
 - https://www.acmicpc.net/problem/1080 (보라)
 - https://www.acmicpc.net/problem/2206 (준영)
+
+---
+2021.02.11 (목)
+- https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=4&contestProbId=AV15QRX6APsCFAYD (민정)
+- https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD (예진)
+- https://www.acmicpc.net/problem/1328 (보라)
+- https://www.acmicpc.net/problem/2143 (준영)
+
+---
+2021.02.18 (목)
+- 
+- 
+- 
+- 
